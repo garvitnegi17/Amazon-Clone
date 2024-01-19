@@ -18,4 +18,5 @@ text-decoration:none;}
 #A{display:flex;
    justify-content:space-evenly;}
 
-#C{display:flex;}
+#C{color:black;
+   display:flex;}
