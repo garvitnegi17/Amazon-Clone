@@ -15,4 +15,5 @@ text-decoration:none;}
      
       width:450px;}
 #head{text-alignment:Centre;}
-
+#A{display:flex;
+   justify-content:space-evenly;}
