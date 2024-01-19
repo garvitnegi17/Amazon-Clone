@@ -17,7 +17,7 @@ text-decoration:none;}
 
 #A{display:flex;
    justify-content:space-evenly;}
-#B{
+#B{ background-color:red;
    display:flex;
    justify-content:space-evenly;}
-h2{color:black;}
+h2{font-color:black;}
