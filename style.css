@@ -18,5 +18,7 @@ text-decoration:none;}
 #A{display:flex;
    justify-content:space-evenly;}
 
-#C{color:black;
-   display:flex;}
+b{color:black;}
+#C{display:flex;
+   justify-content:space-evenly;}
+   
