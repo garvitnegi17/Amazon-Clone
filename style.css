@@ -18,4 +18,6 @@ text-decoration:none;}
 #A{display:flex;
    justify-content:space-evenly;}
 
-#C{background-color:red;}
+#C{background-color:red;
+   height:100px;
+   width:100px;}
