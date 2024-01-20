@@ -26,4 +26,9 @@ b{color:black;}
 #D{display:flex;
 justify-content:space-evenly;}
 #Size{font-size:30px;}
+#footer{background-color:black;
+        display:flex;}
+footer{color:white;
+       text-alignment:center;}
+        
    
