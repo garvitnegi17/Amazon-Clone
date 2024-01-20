@@ -21,7 +21,9 @@ text-decoration:none;}
 b{color:black;}
 #C{display:flex;
    justify-content:space-evenly;}
-#s{color:black;}
+#s{color:black;
+   font-size:30px;}
 #D{display:flex;
 justify-content:space-evenly;}
+#Size{font-size:30px;}
    
