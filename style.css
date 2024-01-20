@@ -27,8 +27,9 @@ b{color:black;}
 justify-content:space-evenly;}
 #Size{font-size:30px;}
 #footer{background-color:black;
-        display:flex;}
-footer{color:white;
+        height:60px;
        text-alignment:center;}
+footer{color:white;
+       font-size:25px;}
         
    
