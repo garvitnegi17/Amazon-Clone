@@ -28,8 +28,8 @@ justify-content:space-evenly;}
 #Size{font-size:30px;}
 #footer{background-color:black;
         height:60px;
-       text-alignment:center;}
+       }
 footer{color:white;
-       font-size:25px;}
-        
+       font-size:25px;
+       text-alignment:center;}
    
