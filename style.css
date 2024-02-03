@@ -3,7 +3,9 @@ margin:0;
 color:white;
 }
 #navbar{height:60px;
-background-color:#0f1111;}
+background-color:#0f1111;
+        width:100vh;
+       }
 button{background-color:#f08800;}
 #logo{color:#f08800;
 font-size:25px;}
