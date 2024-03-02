@@ -5,7 +5,7 @@ color:white;
 #navbar{height:60px;
 background-color:#0f1111;
         width:100vh;
-        position:sticky;
+       /* position:sticky;*/
        }
 button{background-color:#f08800;}
 #logo{color:#f08800;
